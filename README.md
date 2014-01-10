@@ -1,28 +1,29 @@
 aura-asic
 =========
 
-Aura ASIC universal PCB | Created by the Community
+## **Aura ASIC universal PCB | Created by the Community**
 
 This project originated from the works of Jasinlee, and his universal PCB for most current and upcoming ASIC designs.
 
-To do list:
-  -Convert board from Kicad to Altium
-  -Convert board from Kicad to Eagle
-  -TBUpdateded
+### To do list:
+  - item Convert board from Kicad to Altium
+  - item Convert board from Kicad to Eagle
+  - item TBUpdateded
+
   
-Current Issues:
-  -will be updated
+### Current Issues:
+  - item will be updated
   
-Contributors:
-jasinlee:
+### Contributors:
+_jasinlee_:
 LTCasicYDKQVGySmG5vwCiqiZFpMcr7oMi
 
-losh11:
+_losh11_:
 LfVszG74eZKRxrx2s29rQs3MR2Vvau3LsE
 
-smartbitcoin: TBUpdateded
+_smartbitcoin_: TBUpdateded
 
-artilectinc.com: TBUpdateded
+_artilectinc.com_: TBUpdateded
 
-Cheshyr:
+_Cheshyr_:
 1CheshyrZsZ5X1XWW5EQUhGTExx6LTQBw4
