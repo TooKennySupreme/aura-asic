@@ -5,6 +5,10 @@ aura-asic
 
 This project originated from the works of Jasinlee, and his universal PCB for most current and upcoming ASIC designs.
 
+To see where this project started of from, please follow this link:- [Roots](https://litecointalk.org/index.php?topic=12567.0)
+
+If you are waiting for the release of a scyrpt ASIC, follow Jasinlee's project on [Litecointalk.org](https://litecointalk.org/index.php?topic=2702.0)
+
 ### To do list:
   - Convert board from Kicad to Altium
   - Convert board from Kicad to Eagle
@@ -15,6 +19,7 @@ This project originated from the works of Jasinlee, and his universal PCB for mo
   - item will be updated
   
 ### Contributors:
+
 _jasinlee_:
 LTCasicYDKQVGySmG5vwCiqiZFpMcr7oMi
 
