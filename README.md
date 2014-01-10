@@ -6,9 +6,9 @@ aura-asic
 This project originated from the works of Jasinlee, and his universal PCB for most current and upcoming ASIC designs.
 
 ### To do list:
-  - item Convert board from Kicad to Altium
-  - item Convert board from Kicad to Eagle
-  - item TBUpdateded
+  - Convert board from Kicad to Altium
+  - Convert board from Kicad to Eagle
+  - TBUpdateded
 
   
 ### Current Issues:
